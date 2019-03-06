@@ -111,3 +111,100 @@
 28. Data Structures and Algorithms with JavaScript</br>
                Michael McMillan</br>
                 <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(28).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+                
+29. Genetic Algorithms</br>
+                Prem Junsawang</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(29).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+30. Fast Fourier Transform: Algorithms and Applications</br>
+                K.R. Rao</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(30).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+31. Fundamentals of Computer Algorithms</br>
+                 Ellis Horowitz</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(31).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+32.  Fundamentals of Algorithmics</br>
+                Gilles Brassard</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(32).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+33.  Graph Algorithms in Bioinformatics</br>
+<a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(33).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+34. Algorithms: Greedy Algorithms</br>
+               Amotz Bar-Noy</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(34).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+35. Grokking Algorithms: An illustrated guide for programmers and other curious people</br>
+              Aditya Y. Bhargava</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(35).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+     
+36. Handbook of Scheduling: Algorithms, Models, and Performance Analysis</br>
+                Joseph Y-T. Leung</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(36).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+37. Computer Algorithms</br>
+                Sartaj Sahni </br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(37).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+38. How to Think About Algorithms</br>
+                Jeff Edmonds</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(38).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+39.  Introduction to Algorithms: A Creative Approach</br>
+                Udi Manber</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(39).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+40.  Introduction to Evolutionary Algorithms</br>
+               Mitsuo Gen</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(40).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+41.  Introduction to Genetic Algorithms</br>
+               S.N.Sivanandam</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(41).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+42. Introduction to the Design and Analysis of Algorithms</br>
+               Anany Levitin</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(42).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+43. Knapsack Problems: Algorithms and Computer Implementations</br>
+               Silvano Martello</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(43).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+44. Machine Learning: An Algorithmic Perspective</br>
+               Stephen Marsland</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(44).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+45. Mastering Algorithms with C</br>
+                Kyle Loudon</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(45).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+46.  Memory Management: Algorithms and Implementation in C / C++</br>
+                Bill Blunden</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(46).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+47.  Network Routing: Algorithms, Protocols, and Architectures</br>
+               Deepankar Medhi</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(47).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+48.  Neural Networks: Algorithms, Applications, and Programming Techniques</br>
+              James A. Freeman</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(48).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+49. Numerical Algorithms</br>
+               Justin Solomon</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(49).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+     
+50. Algorithms and Parallel Computing</br>
+                Fayez Gebali</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(50).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+
+                
+                
+                
+                
+                
