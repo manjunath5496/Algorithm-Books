@@ -45,7 +45,7 @@
                 
 12.  Algorithms in C</br>
                Robert Sedgewick</br>
-                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(12).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://drive.google.com/file/d/1g1lC3z3icuAS4yyiN_37yENPpvqVG1sH/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 13.  Algorithms in a nutshell</br>
                George T. Heineman</br>
@@ -98,7 +98,7 @@
                 
 25.  Data Structures And Algorithms Made Easy</br>
                 Narasimha Karumanchi</br>
-                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(25).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://drive.google.com/file/d/1MmxNmEV2vmu8d5lN9-CACA6y0vgSIWmS/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 26.  Data Structures and Algorithms in Java</br>
                Robert Lafore</br>
@@ -127,7 +127,7 @@
                 
 32.  Fundamentals of Algorithmics</br>
                 Gilles Brassard</br>
-                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(32).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://drive.google.com/file/d/1ToBdVrpsBnFuJzxJ-7v3d_W5rckBWh6U/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 33.  Graph Algorithms in Bioinformatics</br>
 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(33).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
@@ -138,7 +138,7 @@
                 
 35. Grokking Algorithms: An illustrated guide for programmers and other curious people</br>
               Aditya Y. Bhargava</br>
-                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(35).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://drive.google.com/file/d/1b_MLkDEAk0ww7X9K0ILWD1CcYa1dfFHt/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
      
 36. Handbook of Scheduling: Algorithms, Models, and Performance Analysis</br>
@@ -147,7 +147,7 @@
                 
 37. Computer Algorithms</br>
                 Sartaj Sahni </br>
-                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(37).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://drive.google.com/file/d/1aALEXl0E-SH29--c6Ooif93i9zvTmL40/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 38. How to Think About Algorithms</br>
                 Jeff Edmonds</br>
@@ -241,12 +241,12 @@
      
 59. The Design and Analysis of Computer Algorithms</br>
                 Alfred Aho</br>
-                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(59).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+                <a href="https://drive.google.com/file/d/178e-ZOZPXDCkNYxFi5P2-1V_DTVkiTmt/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
                 
 60.  Art of Computer Programming: Volume 1: Fundamental Algorithms</br>
               Donald Knuth</br>
-                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(60).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://drive.google.com/file/d/1cR7Q9LeQcP0tzRNqm1IhZWbhypygyDgh/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 61. Understanding Machine Learning: From Theory to Algorithms</br>
                Shai Shalev-Shwartz</br>
