@@ -203,6 +203,65 @@
                 <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(50).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 
+51.  Pearls of Functional Algorithm Design</br>
+               Richard S. Bird</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(51).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+52.  Problems on Algorithms</br>
+              Ian Parberry</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(52).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+53. Practical Genetic Algorithms</br>
+               Sue Ellen Haupt</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(53).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+     
+54. Problem Solving with Algorithms and Data Structures</br>
+                Brad Miller</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(54).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                                
+     
+55. Randomized Algorithms</br>
+                Rajeev Motwani</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(55).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+
+56.  Representations for Genetic and Evolutionary Algorithms</br>
+              Franz Rothlauf</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(56).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+57.  The Algorithm Design Manual</br>
+              Steven S. Skiena</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(57).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+58. Sams Teach Yourself Data Structures and Algorithms in 24 Hours</br>
+               Robert Lafore</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(58).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+     
+59. The Design and Analysis of Computer Algorithms</br>
+                Alfred Aho</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(59).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+                
+                
+60.  Art of Computer Programming: Volume 1: Fundamental Algorithms</br>
+              Donald Knuth</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(60).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+61. Understanding Machine Learning: From Theory to Algorithms</br>
+               Shai Shalev-Shwartz</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(61).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+     
+62. Algorithms and Data Structures for External Memory</br>
+               Jeffrey Scott Vitter</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(62).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+                
+                
+63. Algorithms Illuminated Part 1: The Basics</br>
+               Tim Roughgarden</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(63).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+                
                 
                 
                 
