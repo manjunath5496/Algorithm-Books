@@ -27,3 +27,31 @@
                 <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(7).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
      
+8. Algorithmic Graph Theory</br>
+                David Joyner</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(8).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+9. Algorithmics: Theory and Practice</br>
+                Gilles Brassard</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(9).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+10. Algorithms for Data Science</br>
+                Brian Steele</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(10).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+11.  Algorithms For Dummies</br>
+                Luca Massaron</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(11).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+12.  Algorithms in C</br>
+               Robert Sedgewick</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(12).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+13.  Algorithms in a nutshell</br>
+               George T. Heineman</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(13).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+14. Algorithms For Interviews</br>
+               Adnan Aziz</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/cp(14).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
