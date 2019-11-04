@@ -285,7 +285,15 @@
                Alexander S. Kulikov</br>
                 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(68).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
+69. Foundations of Algorithms</br>
+               Richard E. Neapolitan</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(69).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
+70. Think Data Structures: Algorithms and Information Retrieval in Java</br>
+               Allen B. Downey</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(70).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                
+                             
                 
                 
                 
