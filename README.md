@@ -125,7 +125,7 @@
                  Ellis Horowitz</br>
                 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(31).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-32.  Fundamentals of Algorithmics</br>
+32. Algorithmics: Theory and Practice</br>
                 Gilles Brassard</br>
                 <a href="https://drive.google.com/file/d/1ToBdVrpsBnFuJzxJ-7v3d_W5rckBWh6U/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
