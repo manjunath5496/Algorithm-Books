@@ -246,7 +246,7 @@
                 
 60.  Art of Computer Programming: Volume 1: Fundamental Algorithms</br>
               Donald Knuth</br>
-                <a href="https://drive.google.com/file/d/1cR7Q9LeQcP0tzRNqm1IhZWbhypygyDgh/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(60).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 61. Understanding Machine Learning: From Theory to Algorithms</br>
                Shai Shalev-Shwartz</br>
