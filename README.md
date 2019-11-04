@@ -98,7 +98,7 @@
                 
 25.  Data Structures And Algorithms Made Easy</br>
                 Narasimha Karumanchi</br>
-                <a href="https://drive.google.com/file/d/1MmxNmEV2vmu8d5lN9-CACA6y0vgSIWmS/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(25).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 26.  Data Structures and Algorithms in Java</br>
                Robert Lafore</br>
