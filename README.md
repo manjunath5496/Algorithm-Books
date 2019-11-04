@@ -138,7 +138,7 @@
                 
 35. Grokking Algorithms: An illustrated guide for programmers and other curious people</br>
               Aditya Y. Bhargava</br>
-                <a href="https://drive.google.com/file/d/1b_MLkDEAk0ww7X9K0ILWD1CcYa1dfFHt/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(35).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
      
 36. Handbook of Scheduling: Algorithms, Models, and Performance Analysis</br>
