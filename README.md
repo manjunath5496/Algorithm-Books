@@ -125,8 +125,8 @@
                  Ellis Horowitz</br>
                 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(31).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-32. Algorithmics: Theory and Practice</br>
-                Gilles Brassard</br>
+32. Analysis of Algorithms: An Active Learning Approach</br>
+                Jeffrey J. McConnell</br>
                 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(32).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 33.  Graph Algorithms in Bioinformatics</br>
@@ -270,7 +270,26 @@
                 
 65. The Little Schemer</br>
                Matthias Felleisen</br>
-                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(65).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(65).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+                
+66. Decision Making in Medicine: An Algorithmic Approach</br>
+               Stuart B. Mushlin MD</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(66).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+                
+                
+67. Python Algorithms: Mastering Basic Algorithms in the Python Language</br>
+               Magnus Lie Hetland</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(67).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                
+68. Learning Algorithms Through Programming and Puzzle Solving</br>
+               Alexander S. Kulikov</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/cp(68).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                
+                
+                
+                
+                
+                
                 
                 
                 
