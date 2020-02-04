@@ -1,3 +1,7 @@
+<p> <strong>Timeline of algorithms: </strong> </p>
+
+<hr>
+
 <h2><span id="Medieval_Period" class="mw-headline">Medieval Period</span></h2>
 <ul>
 <li><strong>Before &ndash;</strong>&nbsp;<a title="Writing" href="https://en.wikipedia.org/wiki/Writing">writing</a>&nbsp;about "<a class="mw-redirect" title="Recipes" href="https://en.wikipedia.org/wiki/Recipes">recipes</a>" (on cooking, rituals, agriculture and other sorts of themes like willa and Mayan)</li>
@@ -146,12 +150,12 @@
 <li><strong>2002 &ndash;</strong>&nbsp;<a title="Girvan&ndash;Newman algorithm" href="https://en.wikipedia.org/wiki/Girvan%E2%80%93Newman_algorithm">Girvan&ndash;Newman algorithm</a>&nbsp;to detect communities in complex systems</li>
 </ul>
 
+</br>
 
 
+<p> <strong>Books: </strong> </p>
 
-
-
-
+<hr>
 
 
 
