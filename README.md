@@ -229,8 +229,14 @@
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(12).pdf" style="text-decoration:none;">Single-Source Shortest Paths</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(13).pdf" style="text-decoration:none;"> All Pairs Shortest Paths</a></b></li>
   
-  
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(14).pdf" style="text-decoration:none;">Backtracking</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(15).pdf" style="text-decoration:none;">Greedy Algorithms</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(16).pdf" style="text-decoration:none;">Brute Force</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(17).pdf" style="text-decoration:none;">Divide-and-conquer algorithms</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(18).pdf" style="text-decoration:none;">Recursive Algorithms</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(19).pdf" style="text-decoration:none;"> Dynamic Programming</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(20).pdf" style="text-decoration:none;">Randomized Algorithms</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(21).pdf" style="text-decoration:none;"> Branch and Bound Algorithms</a></b></li> 
   
   
                 
