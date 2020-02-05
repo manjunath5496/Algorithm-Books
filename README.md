@@ -238,7 +238,9 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(20).pdf" style="text-decoration:none;">Randomized Algorithms</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(21).pdf" style="text-decoration:none;"> Branch and Bound Algorithms</a></b></li> 
   
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(22).pdf" style="text-decoration:none;"> Supervised Learning</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(23).pdf" style="text-decoration:none;">Reinforcement Learning</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(24).pdf" style="text-decoration:none;"> Unsupervised Learning</a></b></li>  
                 
 </ul>
 
