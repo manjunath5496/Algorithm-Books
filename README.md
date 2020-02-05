@@ -6,19 +6,23 @@
 <li><strong>Proper usage of resources:</strong>&nbsp;The right selection of an algorithm will ensure that a program consumes the least amount of&nbsp;<a href="https://en.wikipedia.org/wiki/Computer_memory" target="_blank" rel="nofollow noopener">memory</a>. Apart from memory, the algorithm can determine the amount of processing power that is needed by a program.</li>
 </ul>
 <p><strong>The algorithm for a child's morning routine could be the following:</strong></p>
-<p><strong>Step 1:&nbsp;</strong>Wake up and turn off alarm</p>
-<p><strong>Step 2:&nbsp;</strong>Get dressed</p>
-<p><strong>Step 3:&nbsp;</strong>Brush teeth</p>
-<p><strong>Step 4:&nbsp;</strong>Eat breakfast</p>
-<p><strong>Step 5:&nbsp;</strong>Go to school</p>
+<ul>
+<li><strong>Step 1:&nbsp;</strong>Wake up and turn off alarm</li>
+<li><strong>Step 2:&nbsp;</strong>Get dressed</li>
+<li><strong>Step 3:&nbsp;</strong>Brush teeth</li>
+<li><strong>Step 4:&nbsp;</strong>Eat breakfast</li>
+<li><strong>Step 5:&nbsp;</strong>Go to school</li>
+</ul>
 <p><strong>&nbsp;The algorithm to add two numbers entered by user would look something like this:</strong></p>
-<p><strong>Step 1:&nbsp;</strong>Start</p>
-<p><strong>Step 2:&nbsp;</strong>Declare variables num1, num2 and sum</p>
-<p><strong>Step 3:&nbsp;</strong>Read values num1 and num2</p>
-<p><strong>Step 4:&nbsp;</strong>Add num1 and num2 and assign the result to sum</p>
-<p><strong>&nbsp;sum &larr; num1 + num2</strong></p>
-<p><strong>&nbsp;Step 5:&nbsp;</strong>Display sum</p>
-<p><strong>Step 6:&nbsp;</strong>Stop</p>
+<ul>
+<li><strong>Step 1:&nbsp;</strong>Start</li>
+<li><strong>Step 2:&nbsp;</strong>Declare variables num1, num2 and sum</li>
+<li><strong>Step 3:&nbsp;</strong>Read values num1 and num2</li>
+<li><strong>Step 4:&nbsp;</strong>Add num1 and num2 and assign the result to sum</li>
+<li><strong>sum &larr; num1 + num2</strong></li>
+<li><strong>Step 5:&nbsp;</strong>Display sum</li>
+<li><strong>Step 6:&nbsp;</strong>Stop</li>
+</ul>
 <p><strong>&nbsp;</strong>Two of these algorithms accomplish exactly the same goal, but each algorithm does it in completely different way to achieve the required output or to accomplish our task. In computer programming, there are often many different ways &ndash; algorithms (any well-defined computational procedure that takes some value, or set of values, as&nbsp;<a href="https://en.wikipedia.org/wiki/Input_(computer_science)" target="_blank" rel="nofollow noopener">input</a>&nbsp;and produces some value, or set of values as&nbsp;<a href="https://en.wikipedia.org/wiki/Output" target="_blank" rel="nofollow noopener">output</a>) -- to accomplish any given task. Each algorithm has credits and demerits in different situations. If you have a million integer values between&nbsp;<strong>-2147483648</strong>&nbsp;and&nbsp;<strong>+2147483647</strong>&nbsp;and you need to sort them, the bin sort is the accurate algorithm to use. If you have a million book titles, the quick sort algorithm might be the best choice. By knowing the toughness and weaknesses of the different algorithms, you pick the best one to accomplish a specific task or to solve a specific problem.</p>
 <p>One of the most important aspects of an algorithm is how fast it can manipulate data in various ways, such as inserting a new data item, searching for a particular item or sorting an item. It is often easy to come up with a list of rules to follow in order to solve a problem, but if the algorithm is too slow, it's back to the drawing board.&nbsp;<a href="https://en.wikipedia.org/wiki/Algorithmic_efficiency" target="_blank" rel="nofollow noopener">Efficiency</a>&nbsp;of an algorithm depends on its design and implementation. Since every procedure or formula for solving a problem based on conducting a sequence of specified actions -- uses computer resources to run --&nbsp;<a href="https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase)" target="_blank" rel="nofollow noopener">execution time</a>&nbsp;and internal memory usage are important considerations to analyze an algorithm.</p>
 <p><strong>Why Study Algorithms?</strong></p>
