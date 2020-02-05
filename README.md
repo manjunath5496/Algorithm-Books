@@ -250,15 +250,31 @@
 
 </br>
 
+</br>
+
+<p> <strong>Machine Learning Algorithms: </strong> </p>
+<hr>
+
+
+<ul>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(25).pdf" style="text-decoration:none;">Dimensionality Reduction</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(26).rar" style="text-decoration:none;">Naive Bayes</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(27).pdf" style="text-decoration:none;">Logistic Regression</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(28).pdf" style="text-decoration:none;">Support Vector Machines</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(29).pdf" style="text-decoration:none;">Gradient Boosting</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(30).pdf" style="text-decoration:none;">Decision Trees</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(31).pdf" style="text-decoration:none;">The K-means Clustering Algorithm</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(32).pdf" style="text-decoration:none;">Linear regression</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(33).pdf" style="text-decoration:none;">kNN</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(34).pdf" style="text-decoration:none;">Random Forests</a></b></li>
+                
+                
+</ul>
 
 
 
 
-
-
-
-
-
+</br>
 
 <p> <strong>Books: </strong> </p>
 
