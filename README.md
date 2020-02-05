@@ -252,7 +252,7 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(37).pdf" style="text-decoration:none;">Segment Tree</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(38).pdf" style="text-decoration:none;"> Matrix algorithms</a></b></li>                 
                 
-                
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(46).pdf" style="text-decoration:none;"> Semi-Supervised Learning</a></b></li>                
                 
 </ul>
 
@@ -279,7 +279,23 @@
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(32).pdf" style="text-decoration:none;">Linear regression</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(33).pdf" style="text-decoration:none;">kNN</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(34).pdf" style="text-decoration:none;">Random Forests</a></b></li>
-                
+       <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(39).pdf" style="text-decoration:none;">ECLAT Algorithm</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(40).pdf" style="text-decoration:none;">APRIORI Algorithm</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(41).pdf" style="text-decoration:none;">Association Rule Mining Algorithms</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(42).pdf" style="text-decoration:none;">Clustering Algorithms</a></b></li> 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(43).pdf" style="text-decoration:none;">Instance-Based Learning Algorithms</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(44).pdf" style="text-decoration:none;">Artificial Neural Network (ANN)</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(45).pdf" style="text-decoration:none;">Ensemble Methods</a></b></li>   
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(47).pdf" style="text-decoration:none;">Regularization Algorithms</a></b></li>   
+  
+  
+  
+  
+  
+  
+  
                 
 </ul>
 
