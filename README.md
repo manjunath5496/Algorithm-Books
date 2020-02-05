@@ -210,6 +210,47 @@
 
 </br>
 
+<p> <strong>Top Algorithms every computer science student should know: </strong> </p>
+
+
+
+<ul>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(1).pdf" style="text-decoration:none;">Depth-First Search</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(2).pdf" style="text-decoration:none;">Binary search algorithm</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(3).pdf" style="text-decoration:none;">Sorting</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(4).pdf" style="text-decoration:none;">Breadth-First Search</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(5).pdf" style="text-decoration:none;">Maze Router: Lee Algorithm</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(6).pdf" style="text-decoration:none;">Flood fill</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(7).pdf" style="text-decoration:none;">Longest Increasing Subsequence</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(8).pdf" style="text-decoration:none;">Heapsort</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(9).pdf" style="text-decoration:none;">Topological Sort on a DAG</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(10).pdf" style="text-decoration:none;">Union-Find Algorithms</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(11).pdf" style="text-decoration:none;">Minimum Spanning Tree</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(12).pdf" style="text-decoration:none;">Single-Source Shortest Paths</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(13).pdf" style="text-decoration:none;"> All Pairs Shortest Paths</a></b></li>
+  
+  
+ 
+  
+  
+                
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p> <strong>Books: </strong> </p>
 
