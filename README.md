@@ -246,6 +246,14 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(23).pdf" style="text-decoration:none;">Reinforcement Learning</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(24).pdf" style="text-decoration:none;"> Unsupervised Learning</a></b></li>  
                 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(35).pdf" style="text-decoration:none;">Linked Lists</a></b></li> 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(36).pdf" style="text-decoration:none;"> Graph Algorithms</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(37).pdf" style="text-decoration:none;">Segment Tree</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sot(38).pdf" style="text-decoration:none;"> Matrix algorithms</a></b></li>                 
+                
+                
+                
 </ul>
 
 
